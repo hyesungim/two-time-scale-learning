@@ -1,4 +1,4 @@
-# Population-Based Training for DQN: Hyperparameter Evolution
+# Two-Time-Scale Learning Dynamics: A Population View of Neural Network Training
 
 [![Paper](https://img.shields.io/badge/arXiv-2603.19808-b31b1b.svg)](https://arxiv.org/abs/2603.19808)
 
